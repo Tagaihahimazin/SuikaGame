@@ -1,0 +1,2 @@
+[21:08:04.147316 +09:00] [---W---] [argeo/ardk-next/common/http/http_request_manager.cc:183] [thread 1189151] HttpRequetManager tasks may be still running when shutting down, or already stopped
+[15:04:07.413734 +09:00] [---W---] [argeo/ardk-next/common/http/http_request_manager.cc:183] [thread 959583] HttpRequetManager tasks may be still running when shutting down, or already stopped
